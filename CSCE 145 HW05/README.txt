@@ -1,0 +1,1 @@
+Program simulates an ascii game similar to Mine Sweeper.
