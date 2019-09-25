@@ -1,1 +1,0 @@
-Program converts binary numbers to decimal numbers.

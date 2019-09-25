@@ -1,1 +1,0 @@
-Program simulates a simplistic database, based on input file. 

@@ -1,1 +1,0 @@
-Program implements rotation and search components of an AVL tree.

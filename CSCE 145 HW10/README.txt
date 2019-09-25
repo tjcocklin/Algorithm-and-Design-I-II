@@ -1,1 +1,0 @@
-Program simulates a simple editor for input files.
